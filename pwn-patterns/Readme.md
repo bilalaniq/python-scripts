@@ -1,5 +1,5 @@
 
-# Pattern Generator & Offset Finder
+# Pattern Generator & Offset Finder(De Bruijn Sequences)
 
 This directory contains two Python scripts inspired by Metasploit's `pattern_create.rb` and `pattern_offset.rb`. These tools help you discover the exact offset needed for buffer overflow exploitation.
 
